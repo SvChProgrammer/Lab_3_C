@@ -1,0 +1,15 @@
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\Lab4.exe
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\Lab4.deps.json
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\Lab4.runtimeconfig.json
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\Lab4.dll
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\ref\Lab4.dll
+C:\Users\chebotarevasv\Desktop\Lab4\bin\Debug\net6.0\Lab4.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.csproj.AssemblyReference.cache
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfo.cs
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.dll
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\ref\Lab4.dll
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\obj\Debug\net6.0\Lab4.genruntimeconfig.cache
