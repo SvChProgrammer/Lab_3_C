@@ -1,8 +1,9 @@
 ﻿int[] BubbleSort(int[] array)
 {
+  Console.WriteLine ("Отсортированный массив");     
   for (int i = 0; i < array.Length; i++){
       
-      for (int j = 0; j < array.Length -1; j++)
+      for (int j = 0; j < array.Length - i - 1; j++)
       {
            if (array[j] > array[j+1])
            {
@@ -11,6 +12,7 @@
                 array[j + 1] = temp;
            }
        }
+    
     Console.Write(array[i] + " ");
   }               
     return array;       
@@ -35,6 +37,7 @@ int[] array = GetArray(n);
 
 void PrintArray(int[] array)
 {
+    Console.WriteLine("Созданный массив");
     Console.Write("[ ");
     for(int i = 0; i <array.Length; i++)
     {
