@@ -1,0 +1,15 @@
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\SortTask.exe
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\SortTask.deps.json
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\SortTask.runtimeconfig.json
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\SortTask.dll
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\ref\SortTask.dll
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\bin\Debug\net6.0\SortTask.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.csproj.AssemblyReference.cache
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.AssemblyInfoInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.AssemblyInfo.cs
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.csproj.CoreCompileInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.dll
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\ref\SortTask.dll
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\SortTask\obj\Debug\net6.0\SortTask.genruntimeconfig.cache
