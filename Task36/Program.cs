@@ -1,6 +1,13 @@
-п»ї/*Р—Р°РґР°С‡Р° 36: Р—Р°РґР°Р№С‚Рµ РѕРґРЅРѕРјРµСЂРЅС‹Р№ РјР°СЃСЃРёРІ, Р·Р°РїРѕР»РЅРµРЅРЅС‹Р№ СЃР»СѓС‡Р°Р№РЅС‹РјРё С‡РёСЃР»Р°РјРё. РќР°Р№РґРёС‚Рµ СЃСѓРјРјСѓ СЌР»РµРјРµРЅС‚РѕРІ, СЃС‚РѕСЏС‰РёС… РЅР° РЅРµС‡С‘С‚РЅС‹С… РїРѕР·РёС†РёСЏС….*/
-Console.WriteLine("РЈРєР°Р¶РґРёС‚Рµ С‡РёСЃР»Рѕ СЌР»РµРјРµРЅС‚РѕРІ РјР°СЃСЃРёРІР°: ");
+/*Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.*/
+Console.WriteLine("Укажите число элементов массива: ");
 int n = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Укажите минимальный элемент массива: ");
+int min = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Укажите максимальный элемент массива: ");
+int max = int.Parse(Console.ReadLine());
+
 
 int[] GetArray(int size)
 {
@@ -8,12 +15,11 @@ int[] GetArray(int size)
 
     for(int i = 0; i<size; i++)
     {
-        array[i] = new Random().Next(0, 100000);
+        array[i] = new Random().Next(min, max);
     }
     return array;
 }
 
-//for(int i)
 
 int[] array = GetArray(n);
 
@@ -30,7 +36,6 @@ void PrintArray(int[] array)
 
 PrintArray(array);
 
-
 void PrintArrays(int[] array)
 {
     int sum = 0; 
@@ -38,7 +43,7 @@ void PrintArrays(int[] array)
     {
         sum = sum + array[i];
     }
-    Console.WriteLine($"РЎСѓРјРјР° СЌР»РµРјРµРЅС‚РѕРІ РјР°СЃСЃРёРІР°, СЃС‚РѕСЏС‰РёС… РЅР° РЅРµС‡РµС‚РЅС‹С… РїРѕР·РёС†РёСЏС…  = {sum}"); 
+    Console.WriteLine($"Сумма элементов массива, стоящих на нечетных позициях  = {sum}"); 
 }    
 
 PrintArrays(array);   

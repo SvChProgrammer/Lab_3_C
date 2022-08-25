@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task341\\Task341.csproj",
-      "projectName": "Task341",
-      "projectPath": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task341\\Task341.csproj",
+      "projectUniqueName": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task43\\Task43.csproj",
+      "projectName": "Task43",
+      "projectPath": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task43\\Task43.csproj",
       "packagesPath": "C:\\Users\\chebotarevasv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task341\\obj\\",
+      "outputPath": "C:\\Users\\chebotarevasv\\Desktop\\Lab4\\Task43\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chebotarevasv\\AppData\\Roaming\\NuGet\\NuGet.Config",
