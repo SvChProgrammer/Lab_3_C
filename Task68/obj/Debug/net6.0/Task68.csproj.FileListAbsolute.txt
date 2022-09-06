@@ -1,0 +1,15 @@
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\ref\Task68.dll
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\ref\Task68.dll
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\chebotarevasv\Desktop\Lab4\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
